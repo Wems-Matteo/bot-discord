@@ -1,0 +1,41 @@
+{
+
+
+
+
+
+    "Banque": {
+        "price": 7000,
+        "available": 1,
+        "isAvailable": true,
+        "reservedToJob": false,
+        "jobId": ""
+    },
+
+
+
+
+    "Ferme": {
+        "price": 3500,
+        "available": 1,
+        "isAvailable": true,
+        "reservedToJob": false,
+        "jobId": ""
+    },
+
+
+    "Parcelle de terre": {
+        "price": 700,
+        "available": 10,
+        "isAvailable": true,
+        "reservedToJob": true,
+        "jobId": "ADD_JOB_ID"
+    }
+
+
+
+
+
+
+
+}
