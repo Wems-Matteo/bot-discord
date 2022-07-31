@@ -1,6 +1,6 @@
 {
     "prefix": "$",
-    "guild_id": "990190164292821002",
-    "client_id": "990191124352208927",
-    "token_id": "OTkwMTkxMTI0MzUyMjA4OTI3.GHH8sD.EOkF3fsihprxcD-QeJJsx4XQXATLk6svFcpPbI"
+    "guild_id": "your_guild_id",
+    "client_id": "your_client_id",
+    "token_id": "your_token_id"
 }
